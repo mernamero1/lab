@@ -1,0 +1,3 @@
+I learned what Git is.
+I learned how to commit.
+I learned how to use GitHub.
